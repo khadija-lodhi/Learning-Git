@@ -12,3 +12,4 @@ This repository is where I'm learning Git and GitHub from scratch.
 - Build confidence using GitHub
 
 This repository is part of my learning journey.
+Today I learned how to connect GitHub with my computer using GitHub Desktop.
